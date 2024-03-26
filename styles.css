@@ -1,0 +1,72 @@
+.logo {
+    max-width: 250px;
+}
+
+#right-image {
+    max-width: 250px;
+}
+
+.contact-info a {
+    color: black;
+}
+
+.contact-info {
+    text-align: right;
+}
+
+.contact-info p {
+    margin-bottom: 0;
+}
+#mainContainer{
+    background-color: #ebebeb;
+}
+#mainFooter{
+    background-color: #ebebeb;
+}
+
+body {
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    background-color: #FFFFFF;
+}
+
+#headerBar {
+    background-color: #28628e;
+    margin-top: -1rem;
+}
+#headerBar a{
+    text-decoration: none;
+}
+
+#mainHeading {
+    color: #424243;
+}
+#efficitur{
+    color: #00bba4;
+    text-decoration: none;
+}
+
+#readMoreLink {
+    background-color: #28628e;
+    color: white;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+}
+
+#signatureText {
+    font-size: 10px;
+    color: #767171;
+}
+
+#mainFooter h1 {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#mainFooter .fw-bold {
+    font-weight: bold;
+}
